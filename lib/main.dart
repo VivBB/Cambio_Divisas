@@ -11,11 +11,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'VJJ DIVISAS SAS',
+      title: 'DIVISAS R1',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: ' Divisas-VJJ- Converter '),
+      home: const MyHomePage(title: ' Divisas Converter '),
       debugShowCheckedModeBanner: false,
     );
   }
@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
     objetos("9", Icon(Icons.abc), Colors.grey),
     objetos("0", Icon(Icons.abc), Colors.grey),
     objetos("Limpiar", Icon(Icons.clear_rounded), Colors.blueAccent),
-    objetos("Calcular", Icon(Icons.calculate), Colors.blueAccent),
+    objetos("Calcular", Icon(Icons.calculate), Colors.greenAccent),
   ];
 
   void _incrementCounter() {

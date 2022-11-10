@@ -8,7 +8,7 @@ Esta aplicación desarollada en Fluter, nos permite utilizar el conversor de mon
 
 ## DEMO
 
-![Demo](/img/demo_reto1.mp4 "tipo de moneda")
+![Demo](/img/demo_reto1.gif "tipo de moneda")
 ![Selecciona el tipo de moneda](/img/Demo1.PNG "tipo de moneda")
 ![Selecciona el valor a cambiar](/img/Demo2.PNG "Valor a cambiar")
 
